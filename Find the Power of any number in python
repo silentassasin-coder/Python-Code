@@ -1,0 +1,35 @@
+Type : 1
+x = int(input('Enter value of x:'))
+y = int(input('Enter value of y :'))
+
+print ('total:', x**y)
+
+Output : 
+Enter value of x:2
+Enter value of y :5
+total: 32
+
+
+Type : 1
+x = int(input('Enter value of x:'))
+y = int(input('Enter value of y :'))
+
+print (x**y)
+
+output :
+Enter value of x:2
+Enter value of y :5
+32
+
+Type : 2
+x = int(input('Enter value of x:'))
+y = int(input('Enter value of y :'))
+
+res = (x**y)
+
+print ('total:', res)
+
+Output : 
+Enter value of x:2
+Enter value of y :5
+total: 32
